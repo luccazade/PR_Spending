@@ -1,4 +1,4 @@
-# PR_Spending
+# PR Spending
 
 ## Overview
 
